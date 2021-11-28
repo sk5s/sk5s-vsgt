@@ -2,7 +2,7 @@
     "name": "sk5s-vs-green-theme",
     "displayName": "sk5s vs green theme",
     "description": "sk5s bulma flavor color theme for vscode",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "sk5s",
     "icon": "logo.png",
     "engines": {
