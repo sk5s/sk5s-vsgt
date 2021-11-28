@@ -9,6 +9,10 @@ sk5s bulma flavor color theme for vscode
 
 ---
 
+https://www.sk5s.cyou/sk5short-one?r=vsgt
+
+---
+
 [![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://www.sk5s.cyou/)
 [![forthebadge](https://upload.cc/i1/2021/11/28/k2x5d1.png)](https://www.sk5s.cyou/)
 
