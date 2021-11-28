@@ -9,6 +9,10 @@ sk5s bulma flavor color theme for vscode
 
 ---
 
+<img width="960" alt="螢幕擷取畫面 2021-11-28 175258" src="https://user-images.githubusercontent.com/92437055/143763319-752013fb-9c3e-42b2-be52-d7b8747489a8.png">
+
+---
+
 [![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://www.sk5s.cyou/)
 [![forthebadge](https://upload.cc/i1/2021/11/28/k2x5d1.png)](https://www.sk5s.cyou/)
 
