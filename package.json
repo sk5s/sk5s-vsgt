@@ -1,0 +1,36 @@
+{
+    "name": "sk5s-vs-green-theme",
+    "displayName": "sk5s vs green theme",
+    "description": "sk5s bulma flavor color theme for vscode",
+    "version": "1.0.0",
+    "publisher": "sk5s",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "keywords": [
+        "theme",
+        "green",
+        "sk5s",
+        "sk5s project",
+        "bulma",
+        "dark",
+        "simple",
+        "gopenso"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sk5s/sk5s-vsgt"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "sk5s vs green theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sk5s vs green theme-color-theme.json"
+            }
+        ]
+    }
+}
