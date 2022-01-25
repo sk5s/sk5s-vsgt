@@ -26,7 +26,7 @@ sk5s bulma flavor color theme for vscode
 1. Open extensions sidebar in vscode 打開vscode延伸模組面板
   
   - Search for `sk5s` - by `sk5s` 搜尋`sk5s`找到 `sk5s`提供的主題
-  - go to [https://www.sk5s.cyou/vsgt](https://www.sk5s.cyou/vsgt) 到[https://www.sk5s.cyou/vsgt](https://www.sk5s.cyou/vsgt)
+  - go to [https://sk5s.cyou/vsgt](https://sk5s.cyou/vsgt) 到[https://sk5s.cyou/vsgt](https://sk5s.cyou/vsgt)
 
 2. Click Install to install it. 按下安裝
 3. Click Reload to reload the your editor 重新啟動編輯器
