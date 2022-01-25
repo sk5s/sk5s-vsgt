@@ -27,6 +27,7 @@
         "type": "git",
         "url": "https://github.com/sk5s/sk5s-vsgt"
     },
+    "homepage": "https://vsgt.surge.sh/",
     "contributes": {
         "themes": [
             {
