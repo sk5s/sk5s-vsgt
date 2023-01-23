@@ -1,5 +1,5 @@
 {
-    "name": "sk5s-vsgt",
+    "name": "sk5s-vs-green-theme",
     "displayName": "sk5s vs green theme",
     "description": "sk5s bulma flavor color theme for vscode",
     "version": "1.5.0",
@@ -18,9 +18,7 @@
         "simple",
         "gopenso",
         "bootstrap",
-        "vue",
-        "calculator",
-        "open"
+        "vue"
     ],
     "categories": [
         "Themes"
@@ -33,7 +31,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "sk5s-vsgt",
+                "label": "sk5s vs green theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/sk5s-vsgt-color-theme.json"
             }
