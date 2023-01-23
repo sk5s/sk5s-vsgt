@@ -34,8 +34,8 @@ sk5s bulma flavor color theme for vscode
 
 ---
 
-[![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://sk5s.cyou/)
-[![forthebadge](https://upload.cc/i1/2021/11/28/k2x5d1.png)](https://sk5s.cyou/)
+[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-site.png)](https://sk5s.cyou/)
+[![forthebadge](https://sk5s.cyou/sk5s/img/open-source.png)](https://sk5s.cyou/)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
 
